@@ -1,6 +1,9 @@
 ### Sample project for Stackoverflow question How to use @PathVariable to resolve parameter name in Spring Security?
 [http://stackoverflow.com/questions/37435824](http://stackoverflow.com/questions/37435824/37660918#37660918)
 
+######BTW, I'm using Java 7 (compiled without debugging symbols), Spring Security 3.2.9.RELEASE, and Spring Framefork 4.1.6.RELEASE
+----
+
 On Unix run
 ```
 ./gradlew bootRun
