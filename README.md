@@ -14,7 +14,7 @@ On Windows run
 gradlew.bat bootRun
 ```
 ----
-Go to <http://localhost:8080/something/1> and in console output you can see something like this
+Go to <http://user:user@localhost:8080/something/1> and in console output you can see something like this
 ```
 2016-06-06 17:09:01.635  INFO 2871 --- c.s.so.q37435824.SecurityService: myParam value from PathVariable equals 1
 ```
